@@ -1,5 +1,5 @@
 ---
-name: Kanban Board Feature Template
+name: User Story
 about: template for capstone kanban board
 title: ''
 labels: ''
